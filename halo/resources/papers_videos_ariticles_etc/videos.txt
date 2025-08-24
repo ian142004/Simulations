@@ -1,0 +1,5 @@
+Paste the link and a short description below.
+
+Example:
+https://www.youtube.com/watch?v=xxxxxxxxxxxx
+This video is an example of something. We can learn about some things from this video. If we wanted to do something specific, we could reference this video.
